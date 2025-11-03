@@ -1,4 +1,4 @@
-Video:
+Video: https://youtu.be/4aWZ6a5LYf8
 
 Sistema de Validacion de Posiciones Ajedrez
 
